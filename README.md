@@ -1,7 +1,7 @@
 # ANM
 Exercises for a course in my Masters: Advanced numerical methods (ANM)
 
-*From the [course catalogue](https://coursecatalogue.uva.nl/xmlpages/page/2020-2021-en/search-course/course/79636)*
+*From the [course catalogue](https://coursecatalogue.uva.nl/xmlpages/page/2020-2021-en/search-course/course/79636)*:
 
 ## Objectives
 - Explain, implement, and apply computational methods to study many-body systems, ranging from Monte Carlo simulations in classical statistical physics to tensor network algorithms for quantum many-body systems
