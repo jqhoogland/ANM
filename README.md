@@ -1,5 +1,5 @@
-# ANM
-Exercises for a course in my Masters: Advanced numerical methods (ANM)
+# ANM(MBP)
+Exercises for a course in my Masters: **Advanced numerical methods in many-body physics** (ANMMBP)
 
 *From the [course catalogue](https://coursecatalogue.uva.nl/xmlpages/page/2020-2021-en/search-course/course/79636)*:
 
